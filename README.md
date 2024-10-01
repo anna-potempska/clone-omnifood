@@ -1,1 +1,1 @@
-# clone-omnifood
+# Clone of Omnifood project
