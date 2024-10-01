@@ -17,6 +17,11 @@ This project was developed as a hands-on exercise during the Udemy course, where
 
 Feel free to explore the page and give feedback!
 
-Live Demo
+### Live Demo
+
 You can view the live demo of the webpage here:
 [Omnifood website](https://anna-potempska.github.io/clone-omnifood/)
+
+### Course Certificate
+
+Here is the link to my Udemy course completion certificate: [Course Certificate](https://www.udemy.com/certificate/UC-aa19f5e9-8a6f-4f36-ab4f-e824742da7a6/)
